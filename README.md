@@ -1,6 +1,6 @@
 # Github Globe
 
-![github-globe made by Zhanar Osmonaliev](https://janarosmonaliev.github.io/github-globe/src/files/github-globe-banner.png)
+![github-globe made by Zhanar Osmonaliev](https://zapneel1.github.io/github-globe/src/files/Screenshot 2024-10-19 003210.jpg)
 
 ## Inspiration
 
@@ -12,7 +12,7 @@ The globe is constructed with [three-globe](https://github.com/vasturiano/three-
 
 ## [Live demo](https://janarosmonaliev.github.io/github-globe/)
 
-All my attended/cancelled flights (2019-2020) are displayed on the globe. If you try to follow one arc, that would be the sequence of my travel destinations. Red arcs are cancelled flights.
+All my attended/cancelled flights (2022-2024) are displayed on the globe. If you try to follow one arc, that would be the sequence of my travel destinations. Red arcs are cancelled flights.
 
 ## Documentation
 
