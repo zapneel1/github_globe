@@ -1,6 +1,6 @@
 # Github Globe
 
-![github-globe](https://zapneel1.github.io/github-globe/src/files/banner.jpg)
+![github-globe](https://zapneel1.github.io/github_globe/src/files/banner.jpg)
 
 ## Inspiration
 
