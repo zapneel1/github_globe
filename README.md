@@ -1,6 +1,6 @@
 # Github Globe
 
-![github-globe made by Zhanar Osmonaliev](https://zapneel1.github.io/github-globe/src/files/Screenshot 2024-10-19 003210.jpg)
+![github-globe](https://zapneel1.github.io/github-globe/src/files/Screenshot 2024-10-19 003210.jpg)
 
 ## Inspiration
 
